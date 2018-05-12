@@ -1,0 +1,29 @@
+_repo: Physiologie-du-go-t_22741
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brillat-Savarin
+    alias: Brillat-Savarin, Jean Anthelme
+    birthdate: 1755
+    deathdate: 1826
+    gutenberg_agent_id: '1797'
+    url: http://www.gutenberg.org/2009/agents/1797
+    wikipedia: http://en.wikipedia.org/wiki/Jean_Anthelme_Brillat-Savarin
+description: ''
+gutenberg_bookshelf: FR Sciences et Techniques
+gutenberg_issued: '2007-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22741'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gastronomy'
+- !lcc 'TX'
+title: Physiologie du goût
+url: http://www.gutenberg.org/ebooks/22741
